@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left"" src="https://github-readme-stats.codestackr.vercel.app/api?username=cristacheda&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=cristacheda&show_icons=true&hide_border=true" />
 
 [website]: https://cristache.net/
 [instagram]: https://www.instagram.com/cristaache/
