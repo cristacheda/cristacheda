@@ -1,9 +1,9 @@
 ### Hi there, I'm Dragoș 👋
 
 ## I'm a bearded web developer, tech enthusiast, foodie and occasional blogger!
-- 🔭 I’m currently working on sharing knowledge about WordPress!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭  I’m currently working on sharing knowledge about WordPress!
+- 🌱  I’m currently learning everything 🤣
+- 🥅  2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
