@@ -10,6 +10,7 @@
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br>
 
 ### Languages and Tools:
 
@@ -33,12 +34,12 @@
 <img align="left" alt="PWA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 
-
+<br>
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=cristacheda&show_icons=true)](https://github.com/cristacheda)
 
-<!-- <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=cristacheda&show_icons=true&hide_border=true" /> -->
+
 
 [website]: https://cristache.net/
 [linkedin]: https://www.linkedin.com/in/dragoscristache/
