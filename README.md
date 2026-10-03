@@ -3,7 +3,7 @@
 ## I'm a bearded web developer, tech enthusiast, foodie and occasional blogger!
 - 🔭  I’m currently working on sharing knowledge about WordPress!
 - 🌱  I’m currently learning everything 🤣
-- 🥅  ~~2020~~ ~~2021~~ ~~2022~~ ~~2023~~ ~~2024~~ 2025 Goals: Contribute more to Open Source projects
+- 🥅  ~~2020~~ ~~2021~~ ~~2022~~ ~~2023~~ ~~2024~~ ~~2025~~ 2026 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
